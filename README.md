@@ -9,7 +9,7 @@
 1. Storm'u Windows için indirin:
 >[Storm Windows](https://github.com/anlyetim/Storm-SystemCleaner/releases/download/Storm/Storm.bat)  
    
-3. İndirilen `storm.bat` dosyasını çalıştırın.
+3. İndirilen `Storm.bat` dosyasını çalıştırın.
    
 4. Windows sisteminizde gereksiz dosyalar otomatik olarak temizlenecektir.
 
@@ -17,13 +17,13 @@
 1. Storm'u Linux için indirin:
 >[Storm Linux](https://github.com/anlyetim/Storm-SystemCleaner/releases/download/Storm/Storm.sh)
    
-3. İndirilen `storm.sh` dosyasını çalıştırılabilir hale getirin:  
+3. İndirilen `Storm.sh` dosyasını çalıştırılabilir hale getirin:  
    ```bash
-   chmod +x storm.sh
+   chmod +x Storm.sh
    
 4. Ardından çalıştırın:
    ```bash
-   ./storm.sh
+   ./Storm.sh
 ##
 Storm, her iki işletim sistemi için de gereksiz dosyaları temizler ve bilgisayarınızın hızını artırır!
 ##
@@ -44,7 +44,7 @@ Storm, her iki işletim sistemi için de gereksiz dosyaları temizler ve bilgisa
 1. Download **Storm** for Windows:  
 >[Storm Windows](https://github.com/anlyetim/Storm-SystemCleaner/releases/download/Storm/StormEN.bat)  
    
-2. Run the downloaded `storm.bat` file.
+2. Run the downloaded `StormEN.bat` file.
    
 3. Unnecessary files on your Windows system will be automatically cleaned.
 
@@ -52,12 +52,12 @@ Storm, her iki işletim sistemi için de gereksiz dosyaları temizler ve bilgisa
 1. Download **Storm** for Linux:  
 >[Storm Linux](https://github.com/anlyetim/Storm-SystemCleaner/releases/download/Storm/StormEN.sh)
    
-2. Make the downloaded `storm.sh` file executable:  
+2. Make the downloaded `StormEN.sh` file executable:  
    ```bash
-   chmod +x storm.sh
+   chmod +x StormEN.sh
 3. Then run it:
    ```bash
-   ./storm.sh
+   ./StormEN.sh
 ##
 Storm cleans unnecessary files on both operating systems and boosts your computer's performance!
 ##
