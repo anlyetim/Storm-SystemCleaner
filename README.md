@@ -42,7 +42,7 @@ Storm, her iki işletim sistemi için de gereksiz dosyaları temizler ve bilgisa
 
 ### Windows - Storm.bat
 1. Download **Storm** for Windows:  
->[Storm Windows](https://github.com/anlyetim/Storm-SystemCleaner/releases/download/Storm/Storm.bat)  
+>[Storm Windows](https://github.com/anlyetim/Storm-SystemCleaner/releases/download/Storm/StormEN.bat)  
    
 2. Run the downloaded `storm.bat` file.
    
@@ -50,7 +50,7 @@ Storm, her iki işletim sistemi için de gereksiz dosyaları temizler ve bilgisa
 
 ### Linux - Storm.sh
 1. Download **Storm** for Linux:  
->[Storm Linux](https://github.com/anlyetim/Storm-SystemCleaner/releases/download/Storm/Storm.sh)
+>[Storm Linux](https://github.com/anlyetim/Storm-SystemCleaner/releases/download/Storm/StormEN.sh)
    
 2. Make the downloaded `storm.sh` file executable:  
    ```bash
