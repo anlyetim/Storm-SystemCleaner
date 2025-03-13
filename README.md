@@ -3,6 +3,7 @@
   <img src=https://img.shields.io/badge/Language-Shell-cyan >
   <img src=https://img.shields.io/badge/Platform-PC-darkblue >
 </p>
+
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türk Bayrağı" width="20" height="15"> 🌪 Storm 
 
 >[!NOTE]
